@@ -1,4 +1,4 @@
-# Exploration-and-Manipulation
+# CSV Explorer and Cleaner: A Python Tool for Interactive Data Analysis and Preprocessing
 
 ## Basic Data Exploration and Data Manipulation Project
 
